@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **calvinschweitzer/calvinschweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,4 +10,4 @@
 - 💬 Ask me about traveling or sports!
 - 📫 How to reach me: cjschweitzer@uiowa.edu
 - ⚡ Fun fact: I have been to 12 different countries
--->
+
